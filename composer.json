@@ -1,0 +1,22 @@
+{
+    "name": "truongkin/calculator",
+    "authors": [
+        {
+            "name": "Truong",
+            "email": "truongnd16121998@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Truongkin\\Calculator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Truongkin\\Calculator\\CalculatorServiceProvider"
+            ]
+        }
+    }
+}
