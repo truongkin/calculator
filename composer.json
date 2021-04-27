@@ -1,4 +1,6 @@
 {
+    "version": "1.0.0",
+    "description": "Test Laravel Framework.",
     "name": "truongkin/calculator",
     "authors": [
         {
